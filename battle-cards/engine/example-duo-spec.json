@@ -1,0 +1,28 @@
+[
+ {
+  "id": "001",
+  "front": "out/001-front.png",
+  "art": "art/001.jpg",
+  "emoji": "🏭",
+  "title": "The content factory",
+  "caption": "Warehouse for the brand. Factory for the content.",
+  "chips": [
+   "🧠 memory",
+   "🏭 make ×100",
+   "👀 pick 3"
+  ]
+ },
+ {
+  "id": "004",
+  "front": "out/004-front.png",
+  "art": "art/004.jpg",
+  "emoji": "📦",
+  "title": "The AI warehouse",
+  "caption": "Nine shelves of context. It fills up every day.",
+  "chips": [
+   "👕 SKUs",
+   "💬 reviews",
+   "🚫 rejects"
+  ]
+ }
+]
